@@ -1,6 +1,11 @@
+# Instalação do CUDA
+
+- Nome: Matheus Tregnago
+- [Vídeo no Youtube](https://youtu.be/Pu1jEGa1Nuw?si=NUmL_ri8iiSoqB69)
+
 Escolhi o CUDA para a instalação, pois a GPU do meu computador é NVIDIA e possui suporte a essa tecnologia.
 
-## Primeira tentativa
+### Primeira tentativa
 
 Comecei tentando instalar o CUDA no Windows. E não deu certo. Consegui instalar o `CUDA Tool-kit` e consegui rodar o comando `nvcc`, porém, quando tento compilar o programa, recebo o erro :
 
